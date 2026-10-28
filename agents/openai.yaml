@@ -1,4 +1,4 @@
 interface:
   display_name: "Hermes 텔레그램 토픽 이름 고정"
-  short_description: "Hermes의 텔레그램 토픽 자동 이름 변경을 프로필별로 끄고 검증합니다"
-  default_prompt: "$hermes-telegram-topic-name-lock 스킬로 내 Hermes 텔레그램 봇의 토픽 자동 이름 변경을 꺼줘."
+  short_description: "대상 봇을 고르는 인터뷰 후 토픽 자동 이름 변경을 끄고 검증합니다"
+  default_prompt: "$hermes-telegram-topic-name-lock 스킬로 어느 Hermes 봇의 토픽 자동 이름 변경을 끌지 인터뷰부터 시작해줘."
